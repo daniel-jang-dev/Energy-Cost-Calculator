@@ -1,5 +1,7 @@
 # SimpleCalculator
 
+![alt tag](assets/images/calc_big.png)
+
 This is a useful web tool that calculates and converts results for your users.
 
 In this project, the calculator will help webpage visitors calculate 
@@ -9,3 +11,4 @@ Features
 - To perform calculations on the input using JavaScript and AngularJS's data binding elements. 
 - To adjust the layout to display better on small screens and mobile devices.
 
+![alt tag](assets/images/calc_small.png)
