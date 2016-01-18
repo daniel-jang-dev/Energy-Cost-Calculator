@@ -1,4 +1,4 @@
-# SimpleCalculator
+# Simple Calculator
 
 ![alt tag](assets/images/calc_big.png)
 
