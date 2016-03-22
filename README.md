@@ -1,4 +1,4 @@
-# Simple Calculator
+# Energy-Cost Calculator
 
 ![alt tag](assets/images/calc_big.png)
 
